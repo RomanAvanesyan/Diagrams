@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:v='http://schemas.microsoft.com/visio/2003/SVGExtensions/' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' width='841.8898pt' height='595.2756pt' viewBox='0 0 841.8898 595.2756'>
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU='msvSubprocessMaster' v:val='Rectangle'/>
+   <v:ud v:nameU='msvNoAutoConnect' v:val='1'/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id='SFixTitle'/>
+ <g id='SContent'>
+  <g>
+   <g transform='matrix(1,0,0,-1,0,595.2756)'>
+    <g transform='matrix(1,0,0,1,206.92914,553.4646)' v:mID='1'>
+     <title>Sheet.1</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='1'>
+      <title>Sheet.1</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='94.25917' y='10.8' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,18.864569)'>Диаграмма активностей</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,411.02362,508.34647)' v:mID='6'>
+     <title>Sheet.6</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='6'>
+      <title>Sheet.6</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='6.588058' y='9.6' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,18.264566)'>Покупатель</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,350.07874,411.02362)' v:mID='12'>
+     <title>Process</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='12'>
+      <title>Process</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='15.165693' y='0' class='TextStyle2' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>Выбирает</text>
+      <text x='30.112474' y='16.8' class='TextStyle2' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>заказ</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,350.07874,325.98422)' v:mID='13'>
+     <title>Decision</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='CriteriaForYes' lbl='Условия для решения "Да"' type='0' langID='1049'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='13'>
+      <title>Decision</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='CriteriaForYes' lbl='Условия для решения "Да"' type='0' langID='1049'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,21.259843826 L46.771652222,42.519687653 L46.771652222,42.519687653 L93.543304443,21.259843826 L93.543304443,21.259843826 L46.771652222,0 L46.771652222,0 L0,21.259843826 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,21.259843826 L46.771652222,42.519687653 L46.771652222,42.519687653 L93.543304443,21.259843826 L93.543304443,21.259843826 L46.771652222,0 L46.771652222,0 L0,21.259843826 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,7.7952766,5.3149624)'>
+      <text x='7.3225675' y='8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,20.14488)'>Состояние</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,218.26772,269.29135)' v:mID='14'>
+     <title>Процесс.14</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='14'>
+      <title>Процесс.14</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='25.829758' y='0' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>Заказ в</text>
+      <text x='21.666672' y='16.8' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>наличии</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,218.26772,177.16536)' v:mID='16'>
+     <title>Process.16</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='16'>
+      <title>Process.16</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='18.296555' y='8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>Покупает</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,467.71655,269.29135)' v:mID='17'>
+     <title>Process.17</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='17'>
+      <title>Process.17</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L93.543304443,0 L93.543304443,0 L93.543304443,42.519687653 L93.543304443,42.519687653 L0,42.519687653 L0,42.519687653 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='3.6403022' y='8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,25.459843)'>Нет в наличии</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,467.71655,177.16536)' v:mID='18'>
+     <title>Decision.18</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='CriteriaForYes' lbl='Условия для решения "Да"' type='0' langID='1049'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='18'>
+      <title>Decision.18</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='CriteriaForYes' lbl='Условия для решения "Да"' type='0' langID='1049'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,21.259843826 L46.771652222,42.519687653 L46.771652222,42.519687653 L93.543304443,21.259843826 L93.543304443,21.259843826 L46.771652222,0 L46.771652222,0 L0,21.259843826 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,21.259843826 L46.771652222,42.519687653 L46.771652222,42.519687653 L93.543304443,21.259843826 L93.543304443,21.259843826 L46.771652222,0 L46.771652222,0 L0,21.259843826 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,7.7952766,5.3149624)'>
+      <text x='7.3225675' y='8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,20.14488)'>Состояние</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,374.17322,84.54495)' v:mID='19'>
+     <title>Process.19</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.7874015748031495'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='19'>
+      <title>Process.19</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.7874015748031495'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L107.716537476,0 L107.716537476,0 L107.716537476,50.100715637 L107.716537476,50.100715637 L0,50.100715637 L0,50.100715637 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L107.716537476,0 L107.716537476,0 L107.716537476,50.100715637 L107.716537476,50.100715637 L0,50.100715637 L0,50.100715637 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='23.393911' y='-8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,29.250359)'>Запросить</text>
+      <text x='10.00573' y='8.4' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,29.250359)'>уведомление о</text>
+      <text x='22.248892' y='25.199999' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,29.250359)'>появлении</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,572.59845,84.54495)' v:mID='20'>
+     <title>Process.20</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='DefaultWidth' val='0.984251968503937'/>
+      <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+      <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+      <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+      <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+      <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+      <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+      <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+      <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+     </custProps>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='20'>
+      <title>Process.20</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='DefaultWidth' val='0.984251968503937'/>
+       <ud nameU='DefaultHeight' val='0.5905511811023622'/>
+       <ud nameU='ResizeTxtHeight' val='0.5905511811023622'/>
+      </userDefs>
+      <custProps>
+       <cp nameU='ProcessNumber' lbl='Номер процесса' type='2' langID='1049' val='0'/>
+       <cp nameU='Owner' lbl='Владелец' type='0' langID='1049'/>
+       <cp nameU='Function' lbl='Функция ' type='0' langID='1049'/>
+       <cp nameU='TargetCycleTime' lbl='Целевое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='ActualCycleTime' lbl='Фактическое время цикла' type='6' langID='1049' val='0'/>
+       <cp nameU='TargetCost' lbl='Целевые затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='ActualCost' lbl='Фактические затраты' type='7' langID='1049' val='0'/>
+       <cp nameU='DefectDefinition' lbl='Определение дефекта' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality1' lbl='Важные для качества 1' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality2' lbl='Важные для качества 2' type='0' langID='1049'/>
+       <cp nameU='CriticalToQuality3' lbl='Важные для качества 3' type='0' langID='1049'/>
+      </custProps>
+      <path d='M0,0 L107.716537476,0 L107.716537476,0 L107.716537476,50.100715637 L107.716537476,50.100715637 L0,50.100715637 L0,50.100715637 L0,0 Z' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M0,0 L107.716537476,0 L107.716537476,0 L107.716537476,50.100715637 L107.716537476,50.100715637 L0,50.100715637 L0,50.100715637 L0,0 Z' stroke='#C8C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='25.342155' y='0' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,29.250359)'>Смотреть</text>
+      <text x='6.2938137' y='16.8' class='TextStyle3' fill='#FEFFFF' opacity='1' transform='matrix(1,0,0,-1,0,29.250359)'>каталог товаров</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,627.874,42.51967)' v:mID='23'>
+     <title>Pull arrow 2</title>
+     <userDefs>
+      <ud nameU='TextPos' val='0'/>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <path d='M120.427093506,436.490081787 L123.307090759,439.37008667 L120.427093506,442.250061035 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd' transform='matrix(0,1,-1,-0,562.6772,316.063)'/>
+     <path d='M120.427093506,436.490081787 L123.307090759,439.37008667 L120.427093506,442.250061035 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd' transform='matrix(1,0,0,1,0,0)'/>
+     <path d='M0,0 L123.307090759,0 L123.307090759,0 L123.307090759,439.37008667 L123.307090759,439.37008667 L123.307090759,439.37008667 ' stroke='#5B9BD5' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none'/>
+     <g transform='matrix(1,0,0,1,41.653545,-8.8)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,627.874,77.95274)' v:mID='25'>
+     <title>Pull arrow 1</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='25'>
+      <title>Pull arrow 1</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L35.433071136,0 ' stroke='#000000' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L35.433071136,0 ' stroke='#5B9BD5' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,26.516537,20)'/>
+    </g>
+    <g transform='matrix(-1,0,0,1,751.1811,481.88977)' v:mID='27'>
+     <title>Стрелка вытягивания 1.27</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,-8.503937,8.503937)' v:mID='27'>
+      <title>Стрелка вытягивания 1.27</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M356.224853516,-2.880000114 L359.104858398,0 L356.224853516,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L359.104858398,0 ' stroke='#000000' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M356.224853516,-2.880000114 L359.104858398,0 L356.224853516,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L359.104858398,0 ' stroke='#5B9BD5' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none'/>
+     <g transform='matrix(-1,0,0,1,199.55243,-8.8)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,396.8504,476.2205)' v:mID='28'>
+     <title>Стрелка вытягивания 1.28</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='28'>
+      <title>Стрелка вытягивания 1.28</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M19.797164917,-2.880000114 L22.677165985,0 L19.797164917,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L22.677165985,0 ' stroke='#000000' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M19.797164917,-2.880000114 L22.677165985,0 L19.797164917,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L22.677165985,0 ' stroke='#5B9BD5' stroke-width='2.1599998' stroke-dasharray='2.159999847 4.319999695' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,20.138584,20)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,265.03937,269.29135)' v:mID='29'>
+     <title>Manual information</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='29'>
+      <title>Manual information</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M46.726299286,-2.880000114 L49.606300354,0 L46.726299286,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L49.606300354,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M46.726299286,-2.880000114 L49.606300354,0 L46.726299286,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L49.606300354,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,33.60315,20)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,396.8504,411.02365)' v:mID='30'>
+     <title>Manual information.30</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='30'>
+      <title>Manual information.30</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M39.639686584,-2.880000114 L42.519687653,0 L39.639686584,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L42.519687653,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M39.639686584,-2.880000114 L42.519687653,0 L39.639686584,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L42.519687653,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,30.059845,20)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,514.4882,269.29138)' v:mID='32'>
+     <title>Manual information.32</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='32'>
+      <title>Manual information.32</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M46.726299286,-2.880000114 L49.606300354,0 L46.726299286,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L49.606300354,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M46.726299286,-2.880000114 L49.606300354,0 L46.726299286,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L49.606300354,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,33.60315,20)'/>
+    </g>
+    <g transform='matrix(1,0,0,1,443.62204,347.24408)' v:mID='33'>
+     <title>Ручная информация.33</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,-8.503937)' v:mID='33'>
+      <title>Ручная информация.33</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L70.866142273,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L70.866142273,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(1,0,0,1,15.433071,-8.8)'/>
+    </g>
+    <g transform='matrix(-1,0,0,1,350.07874,347.24408)' v:mID='34'>
+     <title>Manual information.34</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,-8.503937,8.503937)' v:mID='34'>
+      <title>Manual information.34</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M83.576698303,-2.880000114 L86.456695557,0 L83.576698303,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L86.456695557,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M83.576698303,-2.880000114 L86.456695557,0 L83.576698303,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L86.456695557,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-1,0,0,1,63.228348,-8.8)'/>
+    </g>
+    <g transform='matrix(1,0,0,1,561.2598,198.4252)' v:mID='35'>
+     <title>Manual information.35</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,-8.503937)' v:mID='35'>
+      <title>Manual information.35</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M65.151496887,-2.880000114 L68.031494141,0 L65.151496887,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L68.031494141,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M65.151496887,-2.880000114 L68.031494141,0 L65.151496887,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L68.031494141,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(1,0,0,1,14.015747,-8.8)'/>
+    </g>
+    <g transform='matrix(-1,0,0,1,467.71655,198.4252)' v:mID='36'>
+     <title>Manual information.36</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,-8.503937,8.503937)' v:mID='36'>
+      <title>Manual information.36</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M39.639686584,-2.880000114 L42.519687653,0 L39.639686584,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L42.519687653,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M39.639686584,-2.880000114 L42.519687653,0 L39.639686584,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L42.519687653,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-1,0,0,1,41.259842,-8.8)'/>
+    </g>
+    <g transform='matrix(0.009356347,-0.99995625,0.99995625,0.009356347,427.43472,198.42517)' v:mID='39'>
+     <title>Manual information.39</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,6.323171E-10,-6.323171E-10,1,8.583131,8.423999)' v:mID='39'>
+      <title>Manual information.39</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M60.902320862,-2.880000114 L63.78232193,0 L60.902320862,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L63.78232193,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M60.902320862,-2.880000114 L63.78232193,0 L60.902320862,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L63.78232193,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.009356347,0.99995625,-0.99995625,0.009356347,40.503647,-20.08146)'/>
+    </g>
+    <g transform='matrix(0.009356347,-0.99995625,0.99995625,0.009356347,625.85986,198.42523)' v:mID='40'>
+     <title>Manual information.40</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,6.323171E-10,-6.323171E-10,1,8.583131,8.423999)' v:mID='40'>
+      <title>Manual information.40</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M60.902320862,-2.880000114 L63.78232193,0 L60.902320862,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L63.78232193,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M60.902320862,-2.880000114 L63.78232193,0 L60.902320862,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L63.78232193,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.009356347,0.99995625,-0.99995625,0.009356347,40.503647,-20.08146)'/>
+    </g>
+    <g transform='matrix(1,0,0,1,381.99686,490.86615)' v:mID='41'>
+     <title>Person</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ConnGap' val='0.0001290822253775655'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='41'>
+      <title>Person</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='ConnGap' val='0.0001290822253775655'/>
+      </userDefs>
+      <path d='M23.996940613,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L3.4898386,42.703712463 L3.4898386,42.703712463 L1.675586343,41.50573349 L1.675586343,41.50573349 L0.449018866,39.73110199 L0.449018866,39.73110199 L0,37.562198639 L0,37.562198639 L0,16.367860794 L0,16.367860794 L5.005048275,16.367860794 L5.005048275,16.367860794 L5.005048275,0 L5.005048275,0 L24.510707855,0 L24.510707855,0 L24.510707855,16.367860794 L24.510707855,16.367860794 L29.707086563,16.367860794 L29.707086563,16.367860794 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.258211136,39.732124329 L29.258211136,39.732124329 L28.032728195,41.50510025 L28.032728195,41.50510025 L26.21695137,42.703735352 L26.21695137,42.703735352 L23.996940613,43.142559052 ' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M23.996940613,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L5.710144997,43.142559052 L3.4898386,42.703712463 L3.4898386,42.703712463 L1.675586343,41.50573349 L1.675586343,41.50573349 L0.449018866,39.73110199 L0.449018866,39.73110199 L0,37.562198639 L0,37.562198639 L0,16.367860794 L0,16.367860794 L5.005048275,16.367860794 L5.005048275,16.367860794 L5.005048275,0 L5.005048275,0 L24.510707855,0 L24.510707855,0 L24.510707855,16.367860794 L24.510707855,16.367860794 L29.707086563,16.367860794 L29.707086563,16.367860794 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.707086563,37.562198639 L29.258211136,39.732124329 L29.258211136,39.732124329 L28.032728195,41.50510025 L28.032728195,41.50510025 L26.21695137,42.703735352 L26.21695137,42.703735352 L23.996940613,43.142559052 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <ellipse cx='14.853542961399782' cy='53.63366929133851' rx='8.5437593460083' ry='8.256092071533203' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M14.853546143,0 L14.853546143,13.082471848 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M5.005048752,16.367860794 L5.005048752,27.657423019 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M24.510709763,16.367860794 L24.510709763,27.657423019 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,265.03937,347.24405)' v:mID='42'>
+     <title>Manual information.42</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='42'>
+      <title>Manual information.42</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L35.433071136,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L35.433071136,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,26.516537,20)'/>
+    </g>
+    <g transform='matrix(-0,-1,-1,0,514.4882,347.24405)' v:mID='43'>
+     <title>Manual information.43</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,8.503937)' v:mID='43'>
+      <title>Manual information.43</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L35.433071136,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M32.553070068,-2.880000114 L35.433071136,0 L32.553070068,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L35.433071136,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(-0,-1,-1,0,26.516537,20)'/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type='text/css'><![CDATA[ .TextStyle1 {font-family:Times New Roman;font-size:16px;}.TextStyle0 {font-family:Times New Roman;font-size:18px;font-weight:bold;}.TextStyle2 {font-family:Times New Roman;font-size:14px;font-weight:bold;}.TextStyle3 {font-family:Times New Roman;font-size:14px;} ]]></style>
+</svg>

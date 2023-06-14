@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:v='http://schemas.microsoft.com/visio/2003/SVGExtensions/' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' width='841.8898pt' height='595.2756pt' viewBox='0 0 841.8898 595.2756'>
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU='msvSubprocessMaster' v:val='Rectangle'/>
+   <v:ud v:nameU='msvNoAutoConnect' v:val='1'/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id='SFixTitle'/>
+ <g id='SContent'>
+  <g>
+   <g transform='matrix(1,0,0,-1,0,595.2756)'>
+    <g transform='matrix(1,0,0,1,85.03937,373.5063)' v:mID='3'>
+     <title>Person</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ConnGap' val='0.0001290822253775655'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='3'>
+      <title>Person</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='ConnGap' val='0.0001290822253775655'/>
+      </userDefs>
+      <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <ellipse cx='25.511810429885145' cy='92.11889763779523' rx='14.674393653869629' ry='14.180319786071777' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M25.511814117,0 L25.511814117,22.469896317 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M8.596457481,28.112739563 L8.596457481,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M42.098548889,28.112739563 L42.098548889,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1,0,0,1,467.71655,368.50397)' v:mID='11'>
+     <title>Person.11</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ConnGap' val='0.0001290822253775655'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='11'>
+      <title>Person.11</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='ConnGap' val='0.0001290822253775655'/>
+      </userDefs>
+      <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <ellipse cx='25.511810429885145' cy='92.11889763779523' rx='14.674393653869629' ry='14.180319786071777' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M25.511814117,0 L25.511814117,22.469896317 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M8.596457481,28.112739563 L8.596457481,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M42.098548889,28.112739563 L42.098548889,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1,0,0,1,311.81104,106.29922)' v:mID='14'>
+     <title>Person.14</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ConnGap' val='0.0001290822253775655'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='14'>
+      <title>Person.14</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+       <ud nameU='ConnGap' val='0.0001290822253775655'/>
+      </userDefs>
+      <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='none' stroke-width='0' fill='#5B9BD5'  fill-rule='evenodd' fill-opacity='0.21960784'/>
+     </g>
+     <path d='M41.216117859,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L9.807501793,74.099815369 L7.83212328,73.905021667 L7.83212328,73.905021667 L5.993997574,73.346076965 L5.993997574,73.346076965 L4.330165863,72.461128235 L4.330165863,72.461128235 L2.877915382,71.288475037 L2.877915382,71.288475037 L1.677522182,69.867973328 L1.677522182,69.867973328 L0.771215618,68.240447998 L0.771215618,68.240447998 L0.199479863,66.444511414 L0.199479863,66.444511414 L0,64.515228271 L0,64.515228271 L0,28.112739563 L0,28.112739563 L8.596456528,28.112739563 L8.596456528,28.112739563 L8.596456528,0 L8.596456528,0 L42.098545074,0 L42.098545074,0 L42.098545074,28.112739563 L42.098545074,28.112739563 L51.02362442,28.112739563 L51.02362442,28.112739563 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L51.02362442,64.515228271 L50.824378967,66.445808411 L50.824378967,66.445808411 L50.252655029,68.242202759 L50.252655029,68.242202759 L49.347427368,69.868202209 L49.347427368,69.868202209 L48.147815704,71.287384033 L48.147815704,71.287384033 L46.694488525,72.460441589 L46.694488525,72.460441589 L45.029117584,73.346107483 L45.029117584,73.346107483 L43.191085815,73.90486145 L43.191085815,73.90486145 L41.216117859,74.099815369 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <ellipse cx='25.511810429885145' cy='92.11889763779523' rx='14.674393653869629' ry='14.180319786071777' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M25.511814117,0 L25.511814117,22.469896317 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M8.596457481,28.112739563 L8.596457481,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+     <path d='M42.098548889,28.112739563 L42.098548889,47.503204346 ' stroke='#C7C8C8' stroke-width='0.25' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.8,0.59999996,0.59999996,-0.8,170.07874,453.54333)' v:mID='15'>
+     <title>Manual information</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,5.9039484E-09,-5.9039484E-09,1,1.700788,-11.905512)' v:mID='15'>
+      <title>Manual information</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L70.866142273,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L70.866142273,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.8,0.59999996,0.59999996,-0.8,14.15307,-4.959998)'/>
+    </g>
+    <g transform='matrix(0.9999557,-0.009411347,0.009411347,0.9999557,170.07874,420.19452)' v:mID='16'>
+     <title>Manual information.16</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-4.336005E-10,4.336005E-10,1,8.583593,-8.423527)' v:mID='16'>
+      <title>Manual information.16</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M67.989280701,-2.880000114 L70.869277954,0 L67.989280701,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L70.869277954,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M67.989280701,-2.880000114 L70.869277954,0 L67.989280701,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L70.869277954,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.9999557,0.009411347,-0.009411347,0.9999557,15.518343,-8.987837)'/>
+    </g>
+    <g transform='matrix(0.9796598,-0.20066561,0.20066561,0.9796598,170.07874,377.67484)' v:mID='17'>
+     <title>Manual information.17</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-2.7763152E-09,2.7763152E-09,1,10.037413,-6.6245174)' v:mID='17'>
+      <title>Manual information.17</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M78.138000488,-2.880000114 L81.017997742,0 L78.138000488,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L81.017997742,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M78.138000488,-2.880000114 L81.017997742,0 L78.138000488,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L81.017997742,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.9796598,0.20066561,-0.20066561,0.9796598,22.68166,-12.634318)'/>
+    </g>
+    <g transform='matrix(0.9284767,0.37139067,0.37139067,-0.9284767,538.5827,467.71655)' v:mID='18'>
+     <title>Manual information.18</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-7.0086847E-09,7.0086847E-09,1,4.7374244,-11.053989)' v:mID='18'>
+      <title>Manual information.18</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M73.445175171,-2.880000114 L76.325172424,0 L73.445175171,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L76.325172424,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M73.445175171,-2.880000114 L76.325172424,0 L73.445175171,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L76.325172424,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.9284767,0.37139067,0.37139067,-0.9284767,16.324814,0.74278164)'/>
+    </g>
+    <g transform='matrix(1,0,0,1,547.7536,425.19684)' v:mID='19'>
+     <title>Manual information.19</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,0,0,1,8.503937,-8.503937)' v:mID='19'>
+      <title>Manual information.19</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L70.866142273,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M67.98613739,-2.880000114 L70.866142273,0 L67.98613739,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L70.866142273,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(1,0,0,1,15.433071,-8.8)'/>
+    </g>
+    <g transform='matrix(0.91914505,-0.39391932,0.39391932,0.91914505,552.7559,382.6772)' v:mID='20'>
+     <title>Manual information.20</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-8.0312723E-10,8.0312723E-10,1,11.166216,-4.4664865)' v:mID='20'>
+      <title>Manual information.20</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M83.472076416,-2.880000114 L86.352073669,0 L83.472076416,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L86.352073669,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M83.472076416,-2.880000114 L86.352073669,0 L83.472076416,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L86.352073669,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.91914505,0.39391932,-0.39391932,0.91914505,28.259626,-15.966863)'/>
+    </g>
+    <g transform='matrix(0.9284767,0.37139067,0.37139067,-0.9284767,396.8504,170.07874)' v:mID='21'>
+     <title>Manual information.21</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-7.0086847E-09,7.0086847E-09,1,4.7374244,-11.053989)' v:mID='21'>
+      <title>Manual information.21</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M73.445175171,-2.880000114 L76.325172424,0 L73.445175171,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L76.325172424,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M73.445175171,-2.880000114 L76.325172424,0 L73.445175171,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L76.325172424,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.9284767,0.37139067,0.37139067,-0.9284767,16.324814,0.74278164)'/>
+    </g>
+    <g transform='matrix(0.99751794,0.07041303,0.07041303,-0.99751794,396.8504,136.72997)' v:mID='22'>
+     <title>Manual information.22</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,1.4093097E-09,-1.4093097E-09,1,7.8840413,-9.081617)' v:mID='22'>
+      <title>Manual information.22</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M68.162467957,-2.880000114 L71.042472839,0 L68.162467957,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L71.042472839,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M68.162467957,-2.880000114 L71.042472839,0 L68.162467957,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L71.042472839,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.99751794,0.07041303,0.07041303,-0.99751794,14.951242,7.369898)'/>
+    </g>
+    <g transform='matrix(0.8967146,-0.44260913,0.44260913,0.8967146,396.8504,113.38582)' v:mID='23'>
+     <title>Manual information.23</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,-2.7813742E-09,2.7813742E-09,1,11.389524,-3.8616846)' v:mID='23'>
+      <title>Manual information.23</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M69.640396118,-2.880000114 L72.520401001,0 L69.640396118,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L72.520401001,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M69.640396118,-2.880000114 L72.520401001,0 L69.640396118,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L72.520401001,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.8967146,0.44260913,-0.44260913,0.8967146,22.22087,-16.74327)'/>
+    </g>
+    <g transform='matrix(0.8129613,0.58231777,0.58231777,-0.8129613,388.51318,212.59842)' v:mID='24'>
+     <title>Manual information.24</title>
+     <userDefs>
+      <ud nameU='visVersion' val='15'/>
+     </userDefs>
+     <g transform='matrix(1,4.8524096E-09,-4.8524096E-09,1,1.9613776,-11.865364)' v:mID='24'>
+      <title>Manual information.24</title>
+      <userDefs>
+       <ud nameU='visVersion' val='15'/>
+      </userDefs>
+      <path d='M70.138008118,-2.880000114 L73.018013,0 L70.138008118,2.880000114 Z' stroke='#000000' stroke-width='2.1599998' fill='#000000'  fill-rule='evenodd' opacity='0'/>
+      <path d='M0,0 L73.018013,0 ' stroke='#000000' stroke-width='2.1599998' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M70.138008118,-2.880000114 L73.018013,0 L70.138008118,2.880000114 Z' stroke='#5B9BD5' stroke-width='2.1599998' fill='#5B9BD5'  fill-rule='evenodd'/>
+     <path d='M0,0 L73.018013,0 ' stroke='#5B9BD5' stroke-width='2.1599998' fill='none'/>
+     <g transform='matrix(0.8129613,0.58231777,0.58231777,-0.8129613,15.125383,-4.492296)'/>
+    </g>
+    <g transform='matrix(1,0,0,1,47.125977,297.6378)' v:mID='25'>
+     <title>Sheet.25</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='25'>
+      <title>Sheet.25</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='36.792446' y='9.6' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,33.146454)'>Покупатель</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,429.80313,311.81104)' v:mID='26'>
+     <title>Sheet.26</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='26'>
+      <title>Sheet.26</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='5.4213486' y='0' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,23.184702)'>Менеджер интернет-</text>
+      <text x='46.91745' y='19.2' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,23.184702)'>магазина</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,213.3071,37.517372)' v:mID='28'>
+     <title>Sheet.28</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='28'>
+      <title>Sheet.28</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='97.53528' y='9.6' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,33.146454)'>Курьер</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,301.88977,520.5827)' v:mID='29'>
+     <title>Sheet.29</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='29'>
+      <title>Sheet.29</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='35.695435' y='9.6' class='TextStyle0' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,33.146454)'>Диаграмма прецедентов</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,207.63779,487.55905)' v:mID='30'>
+     <title>Sheet.30</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='30'>
+      <title>Sheet.30</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='27.62887' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Смотреть каталог</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,226.77164,411.02362)' v:mID='33'>
+     <title>Sheet.33</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='33'>
+      <title>Sheet.33</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='24.084402' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Покупать товар</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,240.94485,345.82675)' v:mID='34'>
+     <title>Sheet.34</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='34'>
+      <title>Sheet.34</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='13.577564' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Отслеживать товар</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,595.27563,487.55905)' v:mID='35'>
+     <title>Sheet.35</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='35'>
+      <title>Sheet.35</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='30.041954' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Принимает заказ</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,604.48816,416.6929)' v:mID='36'>
+     <title>Sheet.36</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='36'>
+      <title>Sheet.36</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='35.28854' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Собирает заказ</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,612.3877,337.9898)' v:mID='37'>
+     <title>Sheet.37</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='37'>
+      <title>Sheet.37</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='28.88668' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Отправляет заказ</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,425.19684,246.61418)' v:mID='38'>
+     <title>Sheet.38</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='38'>
+      <title>Sheet.38</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='40.50436' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Забрать заказ</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,476.9291,181.41733)' v:mID='39'>
+     <title>Sheet.39</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='39'>
+      <title>Sheet.39</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='8.948586' y='0' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Доставить заказ с проверкой</text>
+      <text x='49.759132' y='16.8' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>при получении</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,458.14957,133.22835)' v:mID='40'>
+     <title>Sheet.40</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='40'>
+      <title>Sheet.40</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='14.814903' y='8.4' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Оформление возврата</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,462.7559,70.86614)' v:mID='41'>
+     <title>Sheet.41</title>
+     <g transform='matrix(1,0,0,1,0.25919878,-1.4795941)' v:mID='41'>
+      <title>Sheet.41</title>
+     </g>
+     <g transform='matrix(1,0,0,1,0,0)'>
+      <text x='5.4485826' y='0' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>Подтверждение получение</text>
+      <text x='166.26402' y='0' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>/</text>
+      <text x='170.15366' y='0' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>в</text>
+      <text x='176.764' y='0' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>о</text>
+      <text x='54.434914' y='16.8' class='TextStyle1' fill='#0C0C0C' opacity='1' transform='matrix(1,0,0,-1,0,15.538583)'>зврата товара</text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type='text/css'><![CDATA[ .TextStyle1 {font-family:Times New Roman;font-size:14px;}.TextStyle0 {font-family:Times New Roman;font-size:16px;font-weight:bold;} ]]></style>
+</svg>
